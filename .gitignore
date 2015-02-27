@@ -1,3 +1,9 @@
+travis.conf
+*.pid
+master/workdir
+log/
+slave/slave*
 *.pyc
 sandbox
 state.sqlite
+.env
