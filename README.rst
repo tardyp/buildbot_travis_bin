@@ -8,6 +8,7 @@ Usage
 =====
 
 ::
+
     virtualenv sandbox
     . ./sandbox/bin/activate
     pip install -r requirements.txt
@@ -47,3 +48,9 @@ Authentication
 ==============
 For the moment, authentication is not supported, all users can change the configuration in the UI
 
+Screenshots
+===========
+
+.. image:: https://cloud.githubusercontent.com/assets/109859/6417321/f9c17424-beac-11e4-917e-37fdcac50df9.png
+.. image:: https://cloud.githubusercontent.com/assets/109859/6417369/4e64a51e-bead-11e4-9458-1438bc51beb6.png
+.. image:: https://cloud.githubusercontent.com/assets/109859/6417409/84220dea-bead-11e4-834e-682f663273f5.png
